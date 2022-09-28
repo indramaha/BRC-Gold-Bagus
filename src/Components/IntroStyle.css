@@ -1,0 +1,29 @@
+.intro {
+    background: #F1F3FF;
+}
+
+button {
+    background: #5CB85F;
+    width: 140px;
+    height: 34px;
+    border-radius: 10px;
+    font-family: Arial;
+}
+
+h1 {
+    left: 136px;
+    top: 177px;
+    font-family: Arial;
+}
+
+h6 {
+    font-family: Arial;
+    left: 136px;
+    top: 301px;
+
+}
+
+.mobil {
+    width: 704px;
+    height: 407px;
+}

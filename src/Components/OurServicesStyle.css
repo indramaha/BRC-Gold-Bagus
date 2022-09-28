@@ -1,0 +1,38 @@
+h3, p {
+    font-family: Arial;
+    color: black;
+}
+
+.checklist {
+    font-family: Arial;
+    color: black;
+}
+
+.serviceimg {
+    width: 459px;
+    height: 428px;
+}
+
+.ficheck {
+    color: #0D28A6;
+}
+
+.ficheckb {
+    width: 24px;
+    height: 24px;
+    background:#CFD4ED;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    text-align: center;
+}
+
+.servicesec {
+    margin-top: 100px;
+}
+
+.textcol {
+    font-family: Arial;
+}

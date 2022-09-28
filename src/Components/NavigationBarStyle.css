@@ -1,0 +1,29 @@
+nav {
+    background: #F1F3FF;
+}
+
+.logo {
+    margin-top: 25px;
+}
+
+.title {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color:black !important;
+    margin-top: 24px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.togle {
+    width: 24px;
+    height: 24px;
+    margin-right: 16px;
+}
+
+.navigation-menu {
+    width: 50% !important;
+}

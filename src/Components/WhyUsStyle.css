@@ -1,0 +1,65 @@
+.insidecard {
+    margin: 16px;
+}
+
+h5, p, h3 {
+    font-family: Arial;
+}
+
+.fithumbsupb {
+    width: 32px;
+    height: 32px;
+    background: #F9CC00;
+    color: white;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
+
+.fitagb {
+    width: 32px;
+    height: 32px;
+    background:#FA2C5A;
+    color: white;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-border-radius:;
+    -moz-border-radius:;
+    -ms-border-radius:;
+    -o-border-radius:;
+}
+
+.ficlockb {
+    width: 32px;
+    height: 32px;
+    background:#0D28A6;
+    color: white;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.fiawardb {
+    width: 32px;
+    height: 32px;
+    background:#5CB85F;
+    color: white;
+    text-align: center;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+@media screen and (max-width: 430px) {
+    .texth3, .textp {
+        text-align: center;
+    }
+}
