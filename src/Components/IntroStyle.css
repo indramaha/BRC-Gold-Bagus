@@ -2,12 +2,16 @@
     background: #F1F3FF;
 }
 
-button {
+.button-intro {
     background: #5CB85F;
     width: 140px;
     height: 34px;
-    border-radius: 10px;
+    border-radius: 2px;
     font-family: Arial;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
 }
 
 h1 {

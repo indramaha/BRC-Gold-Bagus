@@ -18,7 +18,7 @@ const Intro = () => {
                 kebutuhanmu untuk sewa mobil selama 24 jam.
               </b>
             </p>
-            <button className="border-0 text-light mt-3">
+            <button className="border-0 text-light mt-3 button-intro">
               Mulai Sewa Mobil
             </button>
           </div>

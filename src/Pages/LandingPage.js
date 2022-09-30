@@ -4,6 +4,10 @@ import "../style/LandingPage.css";
 import Intro from "../Components/Intro";
 import OurServices from "../Components/OurServices";
 import WhyUs from "../Components/WhyUs"
+import Testimonial from "../Components/Testimonial";
+import SewaMobil from "../Components/SewaMobil"
+import FAQ from "../Components/FAQ";
+import Footer from "../Components/Footer"
 
 const LandingPage = () => {
   return (
@@ -17,6 +21,18 @@ const LandingPage = () => {
       </div>
       <div>
         <WhyUs />
+      </div>
+      <div>
+        <Testimonial />
+      </div>
+      <div>
+        <SewaMobil />
+      </div>
+      <div>
+        <FAQ />
+      </div>
+      <div>
+        <Footer />
       </div>
     </div>
   );

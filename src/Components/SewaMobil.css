@@ -1,0 +1,49 @@
+.kartu-sewa {
+    background: #0D28A6 !important;
+    color: white !important;
+    text-align: center;
+    border-radius: 13px;
+
+}
+
+.desc-kartu-sewa {
+    color: white !important;
+    margin-left: 342px;
+    margin-right: 358px;
+    margin-top: 16px;
+}
+
+.title-kartu-sewa {
+    margin-top: 64px;
+    margin-left: 270px;
+    margin-right: 285px;
+}
+
+.button-sewa-mobil {
+    margin-top: 52px;
+    margin-bottom: 64px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+    background:#5CB85F;
+    color: white;
+    border: none;
+}
+
+@media (max-width:890px) {
+    .title-kartu-sewa {
+        margin-left: 58px;
+        margin-right: 58px;
+    }
+
+    .desc-kartu-sewa {
+        margin-left: 58px;
+        margin-right: 58px;
+    }
+
+    .button-sewa-mobil {
+        margin-top: 32px;
+    }
+}

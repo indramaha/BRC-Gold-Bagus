@@ -8,24 +8,31 @@ const WhyUs = () => {
   return (
     <div>
       <Container>
+        {/*Why Us start */}
         <Row>
           <Col>
-            <div className="texth3">
+            <div className="text-why-us">
               <h3>
                 <b>Why Us?</b>
               </h3>
             </div>
           </Col>
         </Row>
-        <Row className="textp">
+        {/*Why Us End */}
+
+        {/*Mengapa harus binar car start */}
+        <Row>
           <Col>
-            <div className="textp">
+            <div className="text-mengapa-bcr">
               <p>
                 <b>Mengapa harus pilih Binar Car Rental?</b>
               </p>
             </div>
           </Col>
         </Row>
+        {/*Mengapa harus binar car end */}
+
+        {/*Card start */}
         <Row>
           <Col md={3}>
             <Card className="mt-3">
@@ -33,10 +40,10 @@ const WhyUs = () => {
                 <div className="fithumbsupb">
                   <FiThumbsUp size={20} className="fithumbsup" />
                 </div>
-                <h5 className="mt-4">
+                <h5 className="mt-4 text-card-h5">
                   <b>Mobil Lengkap</b>
                 </h5>
-                <p className="mt-4">
+                <p className="mt-4 text-card-p">
                   <b>
                     Tersedia banyak pilihan mobil, kondisi masih baru, bersih
                     dan terawat
@@ -51,10 +58,10 @@ const WhyUs = () => {
                 <div className="fitagb">
                   <FiTag size={20} className="fitag" />
                 </div>
-                <h5 className="mt-4">
+                <h5 className="mt-4 text-card-h5">
                   <b>Harga Murah</b>
                 </h5>
-                <p className="mt-4">
+                <p className="mt-4 text-card-p">
                   <b>
                     Harga murah dan bersaing, bisa bandingkan harga kami dengan
                     rental mobil lain
@@ -69,10 +76,10 @@ const WhyUs = () => {
                 <div className="ficlockb">
                   <FiClock size={20} className="ficlock" />
                 </div>
-                <h5 className="mt-4">
+                <h5 className="mt-4 text-card-h5">
                   <b>Layanan 24 Jam</b>
                 </h5>
-                <p className="mt-4">
+                <p className="mt-4 text-card-p">
                   <b>
                     Siap melayani kebutuhan Anda selama 24 jam nonstop. Kami
                     juga tersedia di akhir minggu
@@ -87,10 +94,10 @@ const WhyUs = () => {
                 <div className="fiawardb">
                   <FiAward size={20} className="fiaward" />
                 </div>
-                <h5 className="mt-4">
+                <h5 className="mt-4 text-card-h5">
                   <b>Sopir Profesional</b>
                 </h5>
-                <p className="mt-4">
+                <p className="mt-4 text-card-p">
                   <b>
                     Sopir yang profesional, berpengalaman, jujur, ramah dan
                     selalu tepat waktu
@@ -100,6 +107,7 @@ const WhyUs = () => {
             </Card>
           </Col>
         </Row>
+        {/*Card end */}
       </Container>
     </div>
   );

@@ -27,7 +27,7 @@ const OurServices = () => {
                   <FiCheck size={16} className="ficheck" />
                 </div>
                 </Col>
-                <Col className="col-11">
+                <Col className="col-10">
                   <p><b>Sewa Mobil Dengan Supir di Bali 12 Jam</b></p>
                 </Col>
               </Row>
@@ -37,7 +37,7 @@ const OurServices = () => {
                   <FiCheck size={16} className="ficheck" />
                 </div>
                 </Col>
-                <Col className="col-11">
+                <Col className="col-10">
                   <p><b>Sewa Mobil Lepas Kunci di Bali 24 Jam</b></p>
                 </Col>
               </Row>
@@ -47,7 +47,7 @@ const OurServices = () => {
                   <FiCheck size={16} className="ficheck" />
                 </div>
                 </Col>
-                <Col className="col-11">
+                <Col className="col-10">
                   <p><b>Sewa Mobil Jangka Panjang Bulanan</b></p>
                 </Col>
               </Row>
@@ -57,7 +57,7 @@ const OurServices = () => {
                   <FiCheck size={16} className="ficheck" />
                 </div>
                 </Col>
-                <Col className="col-11">
+                <Col className="col-10">
                   <p><b>Gratis Antar - Jemput Mobil di Bandara</b></p>
                 </Col>
               </Row>
@@ -67,7 +67,7 @@ const OurServices = () => {
                   <FiCheck size={16} className="ficheck" />
                 </div>
                 </Col>
-                <Col className="col-11">
+                <Col className="col-10">
                   <p><b>Layanan Airport Transfer / Drop In Out</b></p>
                 </Col>
               </Row>

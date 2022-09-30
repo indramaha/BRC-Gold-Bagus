@@ -1,0 +1,11 @@
+.testimonial {
+    margin-top: 100px;
+}
+
+.texth3, .textp {
+    text-align: center;
+}
+
+@media screen and (max-width: 430px) {
+    
+}
