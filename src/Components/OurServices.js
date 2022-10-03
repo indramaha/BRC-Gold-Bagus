@@ -10,7 +10,7 @@ const OurServices = () => {
     <div>
       <Container className="servicesec">
         <Row className="mt-5 justify-content-center">
-          <Col md={6} className="mt-5">
+          <Col md={6} className="mt-5" id="our-services">
             <img src={ServiceImg} alt="serviceimg" className="serviceimg img-fluid" />
           </Col>
           <Col md={6} className="textcol mt-5">

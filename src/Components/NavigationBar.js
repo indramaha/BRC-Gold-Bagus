@@ -11,7 +11,7 @@ function NavigationBar() {
         <Navbar key={expand} expand={expand} className="nav">
           <Container>
             {/*Navbar Brand Start */}
-            <NavbarBrand href="#">
+            <NavbarBrand href="#landing-page">
               <img
                 src={Logo}
                 alt="logo"
@@ -46,16 +46,16 @@ function NavigationBar() {
               </Offcanvas.Header>
               <Offcanvas.Body>
                 <Nav className="justify-content-end flex-grow-1 pe-3">
-                  <Nav.Link href="#action1" className="title">
+                  <Nav.Link href="#our-services" className="title">
                     Our Services
                   </Nav.Link>
-                  <Nav.Link href="#action2" className="title">
+                  <Nav.Link href="#why-us" className="title">
                     Why Us
                   </Nav.Link>
-                  <Nav.Link href="#action2" className="title">
+                  <Nav.Link href="#testimonial" className="title">
                     Testimonial
                   </Nav.Link>
-                  <Nav.Link href="#action2" className="title">
+                  <Nav.Link href="#faq" className="title">
                     FAQ
                   </Nav.Link>
                 </Nav>

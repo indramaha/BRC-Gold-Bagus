@@ -7,7 +7,7 @@ const FAQ = () => {
   return (
     <Container className="faq-container">
       <Row>
-        <Col md={4}>
+        <Col md={4} id="faq">
           <Row className="faq-col-1-1">
             <h3>
               <b>Frequently Asked Question</b>

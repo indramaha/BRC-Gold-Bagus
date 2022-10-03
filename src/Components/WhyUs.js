@@ -10,7 +10,7 @@ const WhyUs = () => {
       <Container>
         {/*Why Us start */}
         <Row>
-          <Col>
+          <Col id="why-us">
             <div className="text-why-us">
               <h3>
                 <b>Why Us?</b>

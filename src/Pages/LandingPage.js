@@ -11,12 +11,12 @@ import Footer from "../Components/Footer"
 
 const LandingPage = () => {
   return (
-    <div>
-      <div className="navIntroBG mb-3">
+    <>
+      <div className="navIntroBG mb-3" id="landing-page">
         <NavigationBar />
         <Intro />
       </div>
-      <div className="mt-3">
+      <div>
         <OurServices />
       </div>
       <div>
@@ -34,7 +34,7 @@ const LandingPage = () => {
       <div>
         <Footer />
       </div>
-    </div>
+    </>
   );
 };
 

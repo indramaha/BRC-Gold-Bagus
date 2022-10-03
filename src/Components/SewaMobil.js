@@ -4,7 +4,7 @@ import "./SewaMobil.css";
 
 const SewaMobil = () => {
   return (
-    <Container>
+    <Container className="sewa-mobil-con">
       <div>
         <Card className="kartu-sewa">
           <div className="title-kartu-sewa">
